@@ -2,7 +2,7 @@
   width: 50%;
   border: solid black;
   border-width: 3px;
-  background-color: orange;
+  background-color: rgb(214, 48, 167);
   margin-bottom: 10px;
 }
 
@@ -23,7 +23,31 @@
   background-color: rgb(218, 232, 202);
   margin-bottom: 10px;
 }
-/* img {
+.box4 {
+  width: 50%;
+  padding: 3px;
+  border: solid black;
+  border-width: 3px;
+  background-color: rgb(220, 167, 167);
+  margin-bottom: 10px;
+}
+.box5 {
+  width: 50%;
+  padding: 3px;
+  border: solid black;
+  border-width: 3px;
+  background-color: rgb(218, 232, 202);
+  margin-bottom: 10px;
+}
+.box6 {
+  width: 50%;
+  padding: 3px;
+  border: solid black;
+  border-width: 3px;
+  background-color: rgb(171, 194, 222);
+  margin-bottom: 10px;
+}
+img {
   width: 600px;
   height: 400px;
-} */
+}
