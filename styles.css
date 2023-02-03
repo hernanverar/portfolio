@@ -1,0 +1,29 @@
+.box1 {
+  width: 50%;
+  border: solid black;
+  border-width: 3px;
+  background-color: orange;
+  margin-bottom: 10px;
+}
+
+.box2 {
+  width: 50%;
+  padding: 5px;
+  border: solid black;
+  border-width: 3px;
+  background-color: rgb(190, 175, 191);
+  margin-bottom: 10px;
+}
+
+.box3 {
+  width: 50%;
+  padding: 3px;
+  border: solid black;
+  border-width: 3px;
+  background-color: rgb(218, 232, 202);
+  margin-bottom: 10px;
+}
+/* img {
+  width: 600px;
+  height: 400px;
+} */
